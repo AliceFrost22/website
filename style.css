@@ -137,44 +137,44 @@ p{
     object-fit: contain;
 }
 img{
-    height: 500px;
+    height: 400px;
     display: flex;
     justify-content:center;
 }
 .box1 {
     background-color:#0ACF83;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .box2 {
     background-color:#1ABCFE;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .box3 {
     background-color:#A259FF;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .box4 {
     background-color:#A259FF;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .box5 {
     background-color:#F24E1E;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .box6 {
     background-color:#FF7262;
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     border-radius: 6px;
 }
 .social-container{
